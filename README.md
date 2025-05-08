@@ -1,5 +1,19 @@
-# Insect Classification App
-Insect Classification using Deep Convolutional Neural Networks and Transfer Learning
+# 🦋 Insects Image Classification
+
 <div class="alert alert-block alert-info" style="font-size:14px; font-family:verdana;">
-    📌 Link to Dataset: https://www.kaggle.com/datasets/vencerlanz09/insect-village-synthetic-dataset
+    📌 Link to app: https://jel-ly.streamlit.app/
 </div>
+
+### How to run it on your own machine
+
+1. Install the requirements
+
+   ```
+   $ pip install -r requirements.txt
+   ```
+
+2. Run the app
+
+   ```
+   $ streamlit run app.py
+   ```
